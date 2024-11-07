@@ -19,27 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "Git and Github"
-            },
-            "group": "ca917bddfc7d9033"
-          }
-        ]
-      },
-      {
-        "id": "0bffdead2e749d1b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc85df898d54fee9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Git and Github/Git and Github.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Git and Github"
-            },
-            "group": "ca917bddfc7d9033"
+            }
           }
         ]
       }
@@ -193,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc85df898d54fee9",
+  "active": "d856e64e77028339",
   "lastOpenFiles": [
     "Git and Github/Git and Github.md",
     "Git and Github/Git behind the scenes.md",
