@@ -141,3 +141,8 @@ Now, when you run the `git status` command, it will not show the `node_module
 ## Conclusion
 
 In this section, we have learned about the basics of git and how to use it to track changes to your files and folders. We have also learned about the different commands that you can use to interact with your repository, such as `init`, `add`, `commit`, `log`, etc By the end of this section, you should have a good understanding of how to use git and how to use it effectively to manage your code.
+
+---
+
+
+Previous Page [[Git and Github]]                                             Next Page [[Git behind the scenes]]
