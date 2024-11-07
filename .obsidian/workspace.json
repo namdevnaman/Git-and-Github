@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Git and Github.md",
+                "file": "Git and Github/Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git and Github"
+              "title": "Terminology"
             }
           }
         ]
@@ -93,17 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Github/Git and Github.md",
+                "file": "Git and Github/Terminology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git and Github"
+              "title": "Backlinks for Terminology"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and Github/Git and Github.md",
+                "file": "Git and Github/Terminology.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git and Github"
+              "title": "Outgoing links from Terminology"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Git and Github.md"
+                "file": "Git and Github/Terminology.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Git and Github"
+              "title": "Outline of Terminology"
             }
           },
           {
@@ -155,8 +155,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,10 +174,10 @@
   },
   "active": "527d0011af692f4b",
   "lastOpenFiles": [
+    "Git and Github/Git behind the scenes.md",
     "Git and Github/Terminology.md",
     "Git and Github/Git and Github.md",
     "img/img1.svg",
-    "Git and Github/Git behind the scenes.md",
     "Pasted image 20241108002801.png",
     "img/img1 2.svg",
     "img/img1 1.svg",

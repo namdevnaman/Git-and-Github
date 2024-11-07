@@ -41,7 +41,7 @@ In this part, we have learned the basics of Git and Github. We have also learned
 
 
 ---
-                                                           Next Page [[Terminology]]
+                                                        Next Page [[Terminology]]
 
 
 
