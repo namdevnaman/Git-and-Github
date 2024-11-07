@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Untitled.md",
+                "file": "Git and Github/Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Terminology"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Untitled.md"
+                "file": "Git and Github/Terminology.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Terminology"
             }
           },
           {
@@ -176,7 +176,7 @@
   "active": "1e7c4222a68abef2",
   "lastOpenFiles": [
     "Git and Github/Git behind the scenes.md",
-    "Git and Github/Untitled.md",
+    "Git and Github/Terminology.md",
     "Pasted image 20241107234726.png",
     "Git and Github/part1.5j62UnWS_Z1Sr3Do.svg",
     "Pasted image 20241107234741.png",
