@@ -1,8 +1,7 @@
 
 Let’s start with the basics. Git is a version control system that allows you to track changes to your files and collaborate with others. It is used to manage the history of your code and to merge changes from different branches. I can understand that as of now these terms like version control, branches, and merges are not familiar to you. But don’t worry, we will learn them in this tutorial.
 
-
-
+![[part1.5j62UnWS_Z1Sr3Do.svg]]
 ## Git behind the scenes
 Git is a version control system that allows you to track changes to your files and folders. It is a powerful tool that can help you manage your code more effectively. In this section, we will explore the basics of how git works internally.
 
@@ -18,3 +17,4 @@ The three musketeers of git are:
 - Commit Object
 - Tree Object
 - Blob Object
+
