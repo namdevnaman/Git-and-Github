@@ -39,3 +39,10 @@ Another step that you have to follow is to create an account on Github. I will l
 
 In this part, we have learned the basics of Git and Github. We have also learned how to install Git and Github. We have also learned about the importance of version control systems and how they are used in software development. By the end of this tutorial, you will have a good understanding of Git and Github and will be able to use them to manage your code effectively.
 
+
+
+													Next Topic [[Terminology]]
+
+
+
+
