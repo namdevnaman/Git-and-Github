@@ -11,14 +11,12 @@
             "id": "1e7c4222a68abef2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Git and Github/Terminology.md",
-                "mode": "source",
-                "source": false
+                "file": "commit.CZ_pUUof_1Y9b3g.svg"
               },
-              "icon": "lucide-file",
-              "title": "Terminology"
+              "icon": "lucide-image",
+              "title": "commit.CZ_pUUof_1Y9b3g"
             }
           }
         ]
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Terminology.md"
+                "file": "commit.CZ_pUUof_1Y9b3g.svg"
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminology"
+              "title": "Outline of commit.CZ_pUUof_1Y9b3g"
             }
           },
           {
@@ -175,9 +173,13 @@
   },
   "active": "1e7c4222a68abef2",
   "lastOpenFiles": [
-    "img2.svg",
-    "part2.DR-KBhPN_1m6o6q.svg",
     "Git and Github/Terminology.md",
+    "repo.CQAut4Jw_1Cvwlz.svg",
+    "commit.CZ_pUUof_1Y9b3g.svg",
+    "img3.svg",
+    "part2.DR-KBhPN_1m6o6q.svg",
+    "part2.DR-KBhPN_1m6o6q 1.svg",
+    "img2.svg",
     "Git and Github/Git behind the scenes.md",
     "Git and Github/img1.svg",
     "Pasted image 20241107234726.png",

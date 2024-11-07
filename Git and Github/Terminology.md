@@ -26,7 +26,7 @@ Terminal window
 git status
 ```
 
-
+![[img3.svg]]
 
 Not all folders are meant to be tracked by git. Here we can see that all green folders are projects are getting tracked by git but red ones are not.
 
@@ -70,7 +70,7 @@ commit is a way to save your changes to your repository. It is a way to record y
 
 Usual flow looks like this:
 
-![Git and Github](https://docs.chaicode.com/_astro/commit.CZ_pUUof_1Y9b3g.svg)
+![[commit.CZ_pUUof_1Y9b3g.svg]]
 
 ## Complete git flow
 
