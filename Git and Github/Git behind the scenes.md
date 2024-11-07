@@ -1,8 +1,8 @@
 
 Let’s start with the basics. Git is a version control system that allows you to track changes to your files and collaborate with others. It is used to manage the history of your code and to merge changes from different branches. I can understand that as of now these terms like version control, branches, and merges are not familiar to you. But don’t worry, we will learn them in this tutorial.
 
-![image alt](https://github.com/user-attachments/assets/d5db89a8-c452-4546-bb5b-a5e0761ecff9)
 
+![[Pasted image 20241108002801.png]]
 
 ## Git and Github are different
 
