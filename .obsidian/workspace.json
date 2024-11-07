@@ -15,7 +15,7 @@
               "state": {
                 "file": "Git and Github/Git behind the scenes.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
@@ -170,8 +170,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
