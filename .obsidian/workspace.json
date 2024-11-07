@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "c488e6122fce1308",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfb933bf995783c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e7c4222a68abef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git and Github/Git behind the scenes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git behind the scenes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "225d40888857b483",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3baaf9e85402507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c553e817cbff059",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ee15fcd3f6a5c470",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a7f9a8e238b1b49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba23500f04bfcb50",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9d443cafa0e5a0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37c3c8a7d061e95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git and Github/Git behind the scenes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git behind the scenes"
+            }
+          },
+          {
+            "id": "89295a2807523770",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git and Github/Git behind the scenes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Git behind the scenes"
+            }
+          },
+          {
+            "id": "953a40514349db1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f13f927fe0e6d88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git and Github/Git behind the scenes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git behind the scenes"
+            }
+          },
+          {
+            "id": "eb4edc87a6444f55",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e7c4222a68abef2",
+  "lastOpenFiles": [
+    "Git and Github/-Git_and_Github",
+    "Untitled.md",
+    "Git and Github/Git behind the scenes.md",
+    "Git and Github",
+    "Untitled.canvas"
+  ]
+}
