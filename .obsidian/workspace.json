@@ -11,12 +11,14 @@
             "id": "1e7c4222a68abef2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241108002801.png"
+                "file": "Git and Github/Git behind the scenes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241108002801"
+              "icon": "lucide-file",
+              "title": "Git behind the scenes"
             }
           },
           {
@@ -185,12 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c553e817cbff059",
+  "active": "1e7c4222a68abef2",
   "lastOpenFiles": [
     "img/img1.svg",
+    "Pasted image 20241108002801.png",
     "img/img1 2.svg",
     "img/img1 1.svg",
-    "Pasted image 20241108002801.png",
     "Git and Github/Git behind the scenes.md",
     "img/img5.svg",
     "img/img4.svg",
