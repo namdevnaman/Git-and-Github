@@ -13,13 +13,13 @@ Github is a web-based hosting service for Git repositories. Github is an online 
 
 Version control systems are used to manage the history of your code. They allow you to track changes to your files and to collaborate with others. Version control systems are essential for software development. Consider version control as a checkpoint in game. You can move to any time in the game and you can always go back to the previous checkpoint. This is the same concept in software development.
 
-Before Git became mainstream, version control systems were used by developers to manage their code. They were called SCCS (Source Code Control System). SCCS was a proprietary software that was used to manage the history of code. It was expensive and not very user-friendly. Git was created to replace SCCS and to make version control more accessible and user-friendly. Some commong version control systems are Subversion (SVN), CVS, and Perforce.
+Before Git became mainstream, version control systems were used by developers to manage their code. They were called SCCS (Source Code Control System). SCCS was a proprietary software that was used to manage the history of code. It was expensive and not very user-friendly. Git was created to replace SCCS and to make version control more accessible and user-friendly. Some common version control systems are Subversion (SVN), CVS, and Perforce.
 
 ## Learning Path
 
 In this tutorial, we will learn the basics of Git and Github. We will start with the basics and then move on to more advanced topics. We will also learn how to use Git and Github for collaboration and version control. By the end of this tutorial, you will have a good understanding of Git and Github and will be able to use them to manage your code effectively.
 
-We will go in this jounney something like this:
+We will go in this journey something like this:
 
 - Get the basics
 - Use it daily
@@ -40,19 +40,4 @@ Another step that you have to follow is to create an account on Github. I will l
 ## Conclusion
 
 In this part, we have learned the basics of Git and Github. We have also learned how to install Git and Github. We have also learned about the importance of version control systems and how they are used in software development. By the end of this tutorial, you will have a good understanding of Git and Github and will be able to use them to manage your code effectively.
-## Git behind the scenes
-Git is a version control system that allows you to track changes to your files and folders. It is a powerful tool that can help you manage your code more effectively. In this section, we will explore the basics of how git works internally.
-
-## Git Snapshots
-A git snapshot is a point in time in the history of your code. It represents a specific version of your code, including all the files and folders that were present at that time. Each snapshot is identified by a unique hash code, which is a string of characters that represents the contents of the snapshot.
-
-A snapshot is not an image, it’s just a representation of the code at a specific point in time. Snapshot is a loose term that is used when git stores information about the code in a locally stored key-value based database. Everything is stored as an object and each object is identified by a unique hash code.
-
-## 3 Musketeers of git
-
-The three musketeers of git are:
-
-- Commit Object
-- Tree Object
-- Blob Object
 

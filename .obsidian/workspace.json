@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Git behind the scenes.md",
+                "file": "Git and Github/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git behind the scenes"
+              "title": "Untitled"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Git behind the scenes.md"
+                "file": "Git and Github/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Git behind the scenes"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -175,12 +175,13 @@
   },
   "active": "1e7c4222a68abef2",
   "lastOpenFiles": [
-    "part1.5j62UnWS_Z1Sr3Do.svg",
-    "Pasted image 20241107234741.png",
+    "Git and Github/Git behind the scenes.md",
+    "Git and Github/Untitled.md",
     "Pasted image 20241107234726.png",
+    "Git and Github/part1.5j62UnWS_Z1Sr3Do.svg",
+    "Pasted image 20241107234741.png",
     "Git and Github/-Git_and_Github",
     "Untitled.md",
-    "Git and Github/Git behind the scenes.md",
     "Git and Github",
     "Untitled.canvas"
   ]
