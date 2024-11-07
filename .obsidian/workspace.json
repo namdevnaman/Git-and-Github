@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Untitled.md",
+                "file": "Git and Github/Git behind the scenes.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Git behind the scenes"
             }
           },
           {
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/img5.svg"
+                "file": "Git and Github/Git behind the scenes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of img5"
+              "title": "Outline of Git behind the scenes"
             }
           },
           {
@@ -170,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,9 +190,9 @@
   },
   "active": "1e7c4222a68abef2",
   "lastOpenFiles": [
-    "Git and Github/Terminology.md",
-    "Git and Github/Untitled.md",
+    "Git and Github/Git and Github.md",
     "Git and Github/Git behind the scenes.md",
+    "Git and Github/Terminology.md",
     "img/img1.svg",
     "Pasted image 20241108002801.png",
     "img/img1 2.svg",
