@@ -170,7 +170,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69df94b03f347c79",
+  "active": "eb4edc87a6444f55",
   "lastOpenFiles": [
     "Git and Github/Git behind the scenes.md",
     "Branch in git.md",
