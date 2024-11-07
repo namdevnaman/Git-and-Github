@@ -1,6 +1,6 @@
 Git and people who use it talk in a different terminology. For example they don’t call it a folder, they call it a repository. They don’t call it alternative timeline, they call it branch. Although, I agree that alternative timeline is a better name for it. 😁
 
-
+![[img2.svg]]
 
 ## Check your git version
 
@@ -26,7 +26,7 @@ Terminal window
 git status
 ```
 
-![Git and Github](https://docs.chaicode.com/_astro/repo.CQAut4Jw_1Cvwlz.svg)
+
 
 Not all folders are meant to be tracked by git. Here we can see that all green folders are projects are getting tracked by git but red ones are not.
 
