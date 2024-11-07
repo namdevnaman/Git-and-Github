@@ -76,3 +76,8 @@ Terminal window
 ```
 git cat-file -p <commit-id>
 ```
+---
+
+Previous Page [[Terminology]]                                          Next Page [[Branch in git]]
+
+
