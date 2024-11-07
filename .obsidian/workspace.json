@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "commit.CZ_pUUof_1Y9b3g.svg"
+                "file": "img5.svg"
               },
               "icon": "lucide-image",
-              "title": "commit.CZ_pUUof_1Y9b3g"
+              "title": "img5"
             }
           }
         ]
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "commit.CZ_pUUof_1Y9b3g.svg"
+                "file": "img5.svg"
               },
               "icon": "lucide-list",
-              "title": "Outline of commit.CZ_pUUof_1Y9b3g"
+              "title": "Outline of img5"
             }
           },
           {
@@ -171,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e7c4222a68abef2",
+  "active": "1c553e817cbff059",
   "lastOpenFiles": [
     "Git and Github/Terminology.md",
+    "img5.svg",
+    "img4.svg",
     "repo.CQAut4Jw_1Cvwlz.svg",
-    "commit.CZ_pUUof_1Y9b3g.svg",
     "img3.svg",
     "part2.DR-KBhPN_1m6o6q.svg",
     "part2.DR-KBhPN_1m6o6q 1.svg",

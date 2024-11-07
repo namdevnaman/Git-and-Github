@@ -70,13 +70,13 @@ commit is a way to save your changes to your repository. It is a way to record y
 
 Usual flow looks like this:
 
-![[commit.CZ_pUUof_1Y9b3g.svg]]
+![[img4.svg]]
 
 ## Complete git flow
 
 A complete git flow, along with pushing the code to github looks like this:
 
-![Git and Github](https://docs.chaicode.com/_astro/gitflow.CjDHzFoj_dc900.svg)
+![[img5.svg]]
 
 When you want to track a new folder, you first use `init` command to create a new repository. Then you can use `add` command to add the folder to the repository. After that you can use `commit` command to save the changes. Finally you can use `push` command to push the changes to github. Of course there is more to it but this is the basic flow.
 
