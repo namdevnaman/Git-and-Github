@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Terminology.md",
+                "file": "Git and Github/Git behind the scenes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminology"
+              "title": "Git behind the scenes"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Github/Terminology.md",
+                "file": "Git and Github/Git behind the scenes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terminology"
+              "title": "Backlinks for Git behind the scenes"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and Github/Terminology.md",
+                "file": "Git and Github/Git behind the scenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Terminology"
+              "title": "Outgoing links from Git behind the scenes"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Terminology.md"
+                "file": "Git and Github/Git behind the scenes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminology"
+              "title": "Outline of Git behind the scenes"
             }
           },
           {
@@ -174,6 +174,7 @@
   },
   "active": "527d0011af692f4b",
   "lastOpenFiles": [
+    "img/img6.svg",
     "Git and Github/Git behind the scenes.md",
     "Git and Github/Terminology.md",
     "Git and Github/Git and Github.md",
@@ -187,7 +188,6 @@
     "img/img2.svg",
     "img",
     "Git and Github/img/img5.svg",
-    "Git and Github/img/img4.svg",
     "Git and Github/img",
     "Git and Github/-Git_and_Github",
     "Untitled.md",
