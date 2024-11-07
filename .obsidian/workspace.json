@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abc283036aaa0c16",
+        "id": "425575e768782843",
         "type": "tabs",
         "children": [
           {
-            "id": "d856e64e77028339",
+            "id": "527d0011af692f4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
               "type": "backlink",
               "state": {
                 "file": "Git and Github/Git and Github.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,7 +114,7 @@
               "state": {
                 "file": "Git and Github/Git and Github.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links from Git and Github"
@@ -173,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d856e64e77028339",
+  "active": "89295a2807523770",
   "lastOpenFiles": [
-    "Git and Github/Terminology.md",
-    "Git and Github/Git and Github.md",
     "img/img1.svg",
+    "Git and Github/Git and Github.md",
+    "Git and Github/Terminology.md",
     "Git and Github/Git behind the scenes.md",
     "Pasted image 20241108002801.png",
     "img/img1 2.svg",
