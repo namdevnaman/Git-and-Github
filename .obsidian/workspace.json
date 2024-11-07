@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git and Github/Git behind the scenes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Git behind the scenes"
             }
           },
           {
@@ -122,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git and Github/Git behind the scenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Git behind the scenes"
             }
           },
           {
@@ -147,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Git and Github/Git behind the scenes.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Git behind the scenes"
             }
           },
           {
@@ -171,36 +174,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69df94b03f347c79",
+  "active": "527d0011af692f4b",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Branch in git.md",
     "Git and Github/Git behind the scenes.md",
-    "img/img6.svg",
+    "Git and Github/img/img6.svg",
     "Git and Github/Terminology.md",
     "Git and Github/Git and Github.md",
-    "img/img1.svg",
+    "Git and Github/img/img1.svg",
     "Pasted image 20241108002801.png",
     "img/img1 2.svg",
     "img/img1 1.svg",
-    "img/img5.svg",
-    "img/img4.svg",
-    "img/img3.svg",
-    "img/img2.svg",
-    "img",
+    "Git and Github/img/img5.svg",
+    "Git and Github/img/img4.svg",
+    "Git and Github/img/img3.svg",
+    "Git and Github/img/img2.svg",
+    "Git and Github/img",
     "Git and Github/img/img5.svg",
     "Git and Github/img",
     "Git and Github/-Git_and_Github",
     "Untitled.md",
-    "Git and Github",
-    "Untitled.canvas"
+    "Git and Github"
   ]
 }
