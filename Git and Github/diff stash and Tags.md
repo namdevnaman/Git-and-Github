@@ -243,4 +243,4 @@ git push origin :<tag-name>
 
 In this section, we have learned about the different commands related to diff, tags and stash in git. These are not main stream commands but they are very useful in certain situations. By the end of this section, you should have a good understanding of how to use git effectively.
 
-[Previous Branched in git](Branch in git.md) [Next  Rebase and reflog](Rebase and reflog.md)
+[Previous Branched in git](Branch in git.md) [Next Rebase and reflog](Rebase and reflog.md)
