@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Branch in git"
             }
+          },
+          {
+            "id": "64f8a02939ecba91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diff stash and Tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diff stash and Tags"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Branch in git.md"
+                "file": "diff stash and Tags.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Branch in git"
+              "title": "Outline of diff stash and Tags"
             }
           },
           {
@@ -173,10 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3af45948ede499ab",
+  "active": "64f8a02939ecba91",
   "lastOpenFiles": [
-    "Git and Github/img/img9.svg",
     "Git and Github/Branch in git.md",
+    "diff stash and Tags.md",
+    "Untitled",
+    "Git and Github/img/img9.svg",
     "Git and Github/img/img8.svg",
     "Git and Github/img/img7.svg",
     "Git and Github/Git and Github.md",
@@ -193,7 +210,6 @@
     "Git and Github/img",
     "Git and Github/img",
     "Git and Github/-Git_and_Github",
-    "Untitled.md",
     "Git and Github"
   ]
 }
