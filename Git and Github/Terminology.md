@@ -145,4 +145,4 @@ In this section, we have learned about the basics of git and how to use it to tr
 ---
 
 
-[Previous  ]()&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next ]()
+[Previous  ]() &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next ](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/Git%20behind%20the%20scenes.md)
