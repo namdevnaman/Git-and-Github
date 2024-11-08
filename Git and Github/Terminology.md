@@ -26,7 +26,7 @@ Terminal window
 git status
 ```
 
-![[img3.svg]]
+![](img3.svg)
 
 Not all folders are meant to be tracked by git. Here we can see that all green folders are projects are getting tracked by git but red ones are not.
 
