@@ -145,4 +145,6 @@ In this section, we have learned about the basics of git and how to use it to tr
 ---
 
 
-Previous Page [[Git and Github]]                                             Next Page [[Git behind the scenes]]
+[Previous  
+diff stash and Tags](https://docs.chaicode.com/diff-stash-and-tags/)[Next  
+getting started with Github](https://docs.chaicode.com/getting-started-with-github/)
