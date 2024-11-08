@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Branch in git.md",
+                "file": "Git and Github/Branch in git.md",
                 "mode": "source",
                 "source": false
               },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Branch in git.md"
+                "file": "Git and Github/Branch in git.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Branch in git"
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,13 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "527d0011af692f4b",
+  "active": "eb4edc87a6444f55",
   "lastOpenFiles": [
     "Git and Github/Git and Github.md",
     "Git and Github/Git behind the scenes.md",
     "Git and Github/Terminology.md",
     "Untitled.canvas",
-    "Branch in git.md",
+    "Git and Github/Branch in git.md",
     "Git and Github/img/img6.svg",
     "Git and Github/img/img1.svg",
     "Pasted image 20241108002801.png",
