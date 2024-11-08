@@ -2,7 +2,7 @@
 
 Branches are a way to work on different versions of a project at the same time. They allow you to create a separate line of development that can be worked on independently of the main branch. This can be useful when you want to make changes to a project without affecting the main branch or when you want to work on a new feature or bug fix.
 
-![Git and Github](https://docs.chaicode.com/_astro/branches.yYu2erFZ_Z1NQDag.svg)
+![](img/img7.svg)
 
 Some developers can work on Header, some can work on Footer, some can work on Content, and some can work on Layout. This is a good example of how branches can be used in git.
 
