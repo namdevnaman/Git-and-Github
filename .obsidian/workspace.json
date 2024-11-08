@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Branch in git.md",
+                "file": "Git and Github/diff stash and Tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branch in git"
+              "title": "diff stash and Tags"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Branch in git.md"
+                "file": "Git and Github/diff stash and Tags.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Branch in git"
+              "title": "Outline of diff stash and Tags"
             }
           },
           {
@@ -204,6 +204,7 @@
   },
   "active": "0cade23e6687e835",
   "lastOpenFiles": [
+    "Git and Github/Branch in git.md",
     "Git and Github/Terminology.md",
     "Git and Github/Git and Github.md",
     "Git and Github/Git behind the scenes.md",
@@ -213,7 +214,6 @@
     "Git and Github/diff stash and Tags.md",
     "Git and Github/img/img11.svg",
     "Git and Github/img/img10.svg",
-    "Git and Github/Branch in git.md",
     "Untitled",
     "Git and Github/img/img9.svg",
     "Git and Github/img/img8.svg",
