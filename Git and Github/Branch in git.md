@@ -49,7 +49,7 @@ Terminal window
 git checkout maingit merge bug-fix
 ```
 
-![Git and Github](https://docs.chaicode.com/_astro/fast-merge.BnHH-KQa_ZuiFbN.svg)
+![](img/img8.svg)
 
 Some points to note:
 

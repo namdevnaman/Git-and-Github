@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "527d0011af692f4b",
+            "id": "69df94b03f347c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,16 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Branch in git"
-            }
-          },
-          {
-            "id": "69df94b03f347c79",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -183,10 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "527d0011af692f4b",
+  "active": "69df94b03f347c79",
   "lastOpenFiles": [
-    "Git and Github/img/img7.svg",
+    "Git and Github/img/img8.svg",
     "Git and Github/Branch in git.md",
+    "Git and Github/img/img7.svg",
     "Git and Github/Git and Github.md",
     "Git and Github/Git behind the scenes.md",
     "Git and Github/Terminology.md",
@@ -199,7 +190,6 @@
     "Git and Github/img/img5.svg",
     "Git and Github/img/img4.svg",
     "Git and Github/img/img3.svg",
-    "Git and Github/img/img2.svg",
     "Git and Github/img",
     "Git and Github/img",
     "Git and Github/-Git_and_Github",
