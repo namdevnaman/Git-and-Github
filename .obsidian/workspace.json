@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Rebase and reflog"
             }
+          },
+          {
+            "id": "0cade23e6687e835",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Git and Github/img/pullfetch.Oeq0Q8Tl_Z17HYnP.svg"
+              },
+              "icon": "lucide-image",
+              "title": "pullfetch.Oeq0Q8Tl_Z17HYnP"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Rebase and reflog.md"
+                "file": "Git and Github/img/pullfetch.Oeq0Q8Tl_Z17HYnP.svg"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rebase and reflog"
+              "title": "Outline of pullfetch.Oeq0Q8Tl_Z17HYnP"
             }
           },
           {
@@ -188,11 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e6f034a38f09674",
+  "active": "0cade23e6687e835",
   "lastOpenFiles": [
-    "Git and Github/diff stash and Tags.md",
-    "Git and Github/img/img10.svg",
+    "getting started with Github.md",
+    "Git and Github/img/pullfetch.Oeq0Q8Tl_Z17HYnP.svg",
     "Git and Github/Rebase and reflog.md",
+    "Git and Github/diff stash and Tags.md",
+    "Git and Github/img/img11.svg",
+    "Git and Github/img/img10.svg",
     "Git and Github/Branch in git.md",
     "Untitled",
     "Git and Github/img/img9.svg",
@@ -206,8 +221,6 @@
     "Git and Github/img/img1.svg",
     "Pasted image 20241108002801.png",
     "img/img1 2.svg",
-    "img/img1 1.svg",
-    "Git and Github/img/img5.svg",
     "Git and Github/img",
     "Git and Github/img",
     "Git and Github/-Git_and_Github",

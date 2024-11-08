@@ -12,7 +12,7 @@ A merge commit is a commit that combines two or more commits into one. It is cre
 
 ## Rebase
 
-![Rebase image](https://docs.chaicode.com/_astro/rebasegit.KNdYPNsD_Z1XWOos.svg)
+![](img/img11.svg)
 
 Rebase is a powerful tool in Git that allows you to move a branch to a new starting point. It effectively replays the commits from the original base onto the new base. This can be useful for keeping a cleaner, linear project history.
 
