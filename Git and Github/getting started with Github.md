@@ -172,7 +172,7 @@ There are two ways to get code from a remote repository:
 
 Fetch the code means that you are going to download the code from the remote repository to your local repository. Pull the code means that you are going to download the code from the remote repository and merge it with your local repository.
 
-![Git and Github](https://docs.chaicode.com/_astro/pullfetch.Oeq0Q8Tl_Z17HYnP.svg)
+![](img/img12.svg)
 
 ### Fetch code
 

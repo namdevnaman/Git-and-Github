@@ -39,12 +39,14 @@
             "id": "0cade23e6687e835",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Git and Github/img/pullfetch.Oeq0Q8Tl_Z17HYnP.svg"
+                "file": "Git and Github/getting started with Github.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "pullfetch.Oeq0Q8Tl_Z17HYnP"
+              "icon": "lucide-file",
+              "title": "getting started with Github"
             }
           }
         ],
@@ -166,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/img/pullfetch.Oeq0Q8Tl_Z17HYnP.svg"
+                "file": "Git and Github/getting started with Github.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of pullfetch.Oeq0Q8Tl_Z17HYnP"
+              "title": "Outline of getting started with Github"
             }
           },
           {
@@ -202,8 +204,8 @@
   },
   "active": "0cade23e6687e835",
   "lastOpenFiles": [
-    "getting started with Github.md",
-    "Git and Github/img/pullfetch.Oeq0Q8Tl_Z17HYnP.svg",
+    "Git and Github/img/img12.svg",
+    "Git and Github/getting started with Github.md",
     "Git and Github/Rebase and reflog.md",
     "Git and Github/diff stash and Tags.md",
     "Git and Github/img/img11.svg",
