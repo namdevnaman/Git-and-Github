@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "425575e768782843",
+        "id": "a2958f1580f04f09",
         "type": "tabs",
         "children": [
           {
-            "id": "69df94b03f347c79",
+            "id": "3af45948ede499ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,10 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69df94b03f347c79",
+  "active": "3af45948ede499ab",
   "lastOpenFiles": [
-    "Git and Github/img/img8.svg",
+    "Git and Github/img/img9.svg",
     "Git and Github/Branch in git.md",
+    "Git and Github/img/img8.svg",
     "Git and Github/img/img7.svg",
     "Git and Github/Git and Github.md",
     "Git and Github/Git behind the scenes.md",
@@ -189,7 +190,6 @@
     "img/img1 1.svg",
     "Git and Github/img/img5.svg",
     "Git and Github/img/img4.svg",
-    "Git and Github/img/img3.svg",
     "Git and Github/img",
     "Git and Github/img",
     "Git and Github/-Git_and_Github",

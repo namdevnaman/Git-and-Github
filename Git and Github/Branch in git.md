@@ -60,7 +60,7 @@ This is a fast-forward merge. It means that the commits in the `bug-fix` branc
 
 ### Not fast-forward merge
 
-![Git and Github](https://docs.chaicode.com/_astro/notfast-merge.C_ZAD9Zp_zJoWb.svg)
+![](img/img8.svg)
 
 In this type of merge, the master branch also worked and have some commits that are not in the `bug-fix` branch. This is a not fast-forward merge.
 
@@ -76,7 +76,7 @@ If the command are same, what is the difference between fast-forward and not fas
 
 The difference is resolving the conflicts. In a fast-forward merge, there are no conflicts. But in a not fast-forward merge, there are conflicts, and there are no shortcuts to resolve them. You have to manually resolve the conflicts. Decide, what to keep and what to discard. VSCode has a built-in merge tool that can help you resolve the conflicts.
 
-![Git and Github](https://docs.chaicode.com/_astro/conflict.-47xpPL4_ucXBc.svg)
+![](img/img9.svg)
 
 ### Managing conflicts
 
