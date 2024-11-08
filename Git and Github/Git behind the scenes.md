@@ -1,4 +1,4 @@
-## Git behind the scenes
+## GitGit behind the scenes behind the scenes
 
 Git is a version control system that allows you to track changes to your files and folders. It is a powerful tool that can help you manage your code more effectively. In this section, we will explore the basics of how git works internally.
 
@@ -78,5 +78,5 @@ git cat-file -p <commit-id>
 ```
 ---
 
-[Previous  Terminologies](Terminology.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Branch in git](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/Branch%20in%20git.md)
+[Previous  Terminologies](Terminology.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Branch in git](Branch in git.md)
 
