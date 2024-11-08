@@ -1,6 +1,6 @@
 
 Let’s start with the basics. Git is a version control system that allows you to track changes to your files and collaborate with others. It is used to manage the history of your code and to merge changes from different branches. I can understand that as of now these terms like version control, branches, and merges are not familiar to you. But don’t worry, we will learn them in this tutorial.
-![[img1.svg]]
+![](img/img1.svg)
 ## Git and Github are different
 
 Git is a version control system that is used to track changes to your files. It is a free and open-source software that is available for Windows, macOS, and Linux. Remember, GIT is a software and can be installed on your computer.

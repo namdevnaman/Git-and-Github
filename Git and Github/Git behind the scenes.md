@@ -41,7 +41,7 @@ Everything is stored as key-value pairs in the tree object. The key is the file 
 
 Blob Object is present in the tree object and contains the actual file content. This is the place where the file content is stored.
 
-![[img6.svg]]
+![](img/img6.svg)
 
 ## Helpfil commands
 
