@@ -145,4 +145,4 @@ In this section, we have learned about the basics of git and how to use it to tr
 ---
 
 
-[Previous  Git and Github](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/Git%20and%20Github.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Git Behind the Scenes](Git behind the scenes.md)
+[Previous  Git and Github](Git and Github.md ) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Git Behind the Scenes](Git behind the scenes.md)

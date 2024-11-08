@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Github/Terminology.md",
+                "file": "Git and Github/Branch in git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminology"
+              "title": "Branch in git"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and Github/Terminology.md"
+                "file": "Git and Github/Branch in git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminology"
+              "title": "Outline of Branch in git"
             }
           },
           {
@@ -204,8 +204,8 @@
   },
   "active": "0cade23e6687e835",
   "lastOpenFiles": [
-    "Git and Github/Git and Github.md",
     "Git and Github/Terminology.md",
+    "Git and Github/Git and Github.md",
     "Git and Github/Git behind the scenes.md",
     "Git and Github/Rebase and reflog.md",
     "Git and Github/getting started with Github.md",
