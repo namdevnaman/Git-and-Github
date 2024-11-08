@@ -185,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -202,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cade23e6687e835",
+  "active": "eb4edc87a6444f55",
   "lastOpenFiles": [
     "Git and Github/Rebase and reflog.md",
     "Git and Github/Terminology.md",
