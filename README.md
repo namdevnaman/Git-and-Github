@@ -4,13 +4,13 @@ Welcome to the comprehensive Git and GitHub learning repository! This repository
 
 ## 📋 Table of Contents
 
-1. [Git and Github](./1_Git%20and%20Github.md)
-2. [Terminology](./2_Terminology.md)
-3. [Git behind the scenes](./3_Git%20behind%20the%20scenes.md)
-4. [Branched in git](./4_Branched%20in%20git.md)
-5. [diff stash and Tags](./5_diff%20stash%20and%20Tags.md)
-6. [Rebase and reflog](./6_Rebase%20and%20reflog.md)
-7. [getting started with Github](./7_getting%20started%20with%20Github.md)
+1. [Git and Github](Git%20and%20Github.md)
+2. [Terminology](Terminology.md)
+3. [Git behind the scenes](Git%20behind%20the%20scenes.md)
+4. [Branched in git](Branched%20in%20git.md)
+5. [diff stash and Tags](diff%20stash%20and%20Tags.md)
+6. [Rebase and reflog](Rebase%20and%20reflog.md)
+7. [getting started with Github](getting%20started%20with%20Github.md)
 
 ## 📖 Topics Covered
 
