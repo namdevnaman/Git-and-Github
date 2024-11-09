@@ -7,7 +7,7 @@ Welcome to the comprehensive Git and GitHub learning repository! This repository
 1. [Git and Github](Git%20and%20Github.md)
 2. [Terminology](Terminology.md)
 3. [Git behind the scenes](Git%20behind%20the%20scenes.md)
-4. [Branched in git](Branched%20in%20git.md)
+4. [Branched in git](Branch%20in%20git.md)
 5. [diff stash and Tags](diff%20stash%20and%20Tags.md)
 6. [Rebase and reflog](Rebase%20and%20reflog.md)
 7. [getting started with Github](getting%20started%20with%20Github.md)

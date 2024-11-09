@@ -132,4 +132,4 @@ List all branches means that you are going to see all the branches in your repos
 
 In this section, we have learned about the different types of merges and how to resolve conflicts. We have also learned about the importance of branching and merging in Git and Github. By the end of this section, you should have a good understanding of how to use Git and Github effectively.
 
-[Previous Git behind the scenes](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/Git%20behind%20the%20scenes.md)              [Next diff stash and Tags](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/diff%20stash%20and%20Tags.md)
+[Previous Git behind the scenes](Git%20behind%20the%20scenes.md)              [Next diff stash and Tags](diff%20stash%20and%20Tags.md)
