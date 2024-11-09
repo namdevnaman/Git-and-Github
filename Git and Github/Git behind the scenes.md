@@ -78,5 +78,4 @@ git cat-file -p <commit-id>
 ```
 ---
 
-[Previous  Terminologies](Terminology.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Branch in git](Branch in git.md)
-
+[Previous  Terminologies](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/Terminology.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Next Branch in git](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/Branch%20in%20git.md)

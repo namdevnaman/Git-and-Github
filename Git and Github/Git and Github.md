@@ -43,6 +43,3 @@ In this part, we have learned the basics of Git and Github. We have also learned
 ---
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Next Terminology](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/Terminology.md)
 
-
-
-
