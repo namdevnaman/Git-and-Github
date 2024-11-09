@@ -88,4 +88,4 @@ git reflog <commit-hash>git reset --hard HEAD@{1}
 
 In this section, we have learned about the different types of merges and how to resolve conflicts. We have also learned about the importance of branching and merging in Git and Github. By the end of this section, you should have a good understanding of how to use Git and Github effectively.
 
-[Previous diff stash and Tags](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/diff%20stash%20and%20Tags.md)    [Next  getting started with Github](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/getting%20started%20with%20Github.md
+[Previous diff stash and Tags](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/diff%20stash%20and%20Tags.md)    [Next  getting started with Github](https://github.com/namdevnaman/Git-and-Github/blob/main/Git%20and%20Github/getting%20started%20with%20Github.md)
